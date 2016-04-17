@@ -1,6 +1,6 @@
 name: Expressão
 favicon: null
-layout_spectrum: 0.64972
+layout_spectrum: 0.94027
 typography_spectrum: 0.3844857
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#A44217'
     - '#E17F26'
     - '#FCE7D0'
-  brandStrength: 0
-  lightness: 0.8254638
-  saturation: 0.2141653
-  rhythmicContrast: 0.8600338
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
