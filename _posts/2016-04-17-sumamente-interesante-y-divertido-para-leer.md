@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:166cc840-1702-4c2f-8795-bce7738af33c'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-04-17T03:38:45.825Z'
+dateModified: '2016-04-17T03:33:00.950Z'
 author: []
-datePublished: '2016-04-17T02:43:24.826Z'
-publisher:
-  domain: ''
-  name: ''
 title: Sumamente interesante y divertido para leer
-dateModified: '2016-04-17T02:41:24.342Z'
 sourcePath: _posts/2016-04-17-sumamente-interesante-y-divertido-para-leer.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: sumamente-interesante-y-divertido-para-leer/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
