@@ -1,29 +1,41 @@
-name: Expressão
-favicon: null
-layout_spectrum: 0.63122
-typography_spectrum: 0.62188
 title: 'Graphic Design, Art, Photography & Technology '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2141653
+  brandStrength: 0
+  lightness: 0.8254638
+  brandColors:
+    - '#E8C665'
+    - '#4C2E21'
+    - '#A44217'
+    - '#E17F26'
+    - '#FCE7D0'
+  rhythmicContrast: 0.8600338
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Expressão
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#264881'
-    - '#b73644'
-    - '#8187ad'
-    - '#f06e52'
-  brandStrength: 0.0625
-  lightness: 0.75
-  saturation: 0.6875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.3844857
+layout_spectrum: 0.188027
