@@ -1,7 +1,7 @@
 name: Expressão
 favicon: null
-layout_spectrum: 0.30088224564678967
-typography_spectrum: 0.9064607329200953
+layout_spectrum: 0.88794
+typography_spectrum: 0.62188
 title: 'Graphic Design, Art, Photography & Technology '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.34677351103164256
-  lightness: 0.5348380394279957
-  saturation: 0.18515606550499797
-  rhythmicContrast: 0.4042921089567244
+    - '#fdfdfd'
+    - '#c7c9ca'
+    - '#000000'
+    - '#808080'
+    - '#555555'
+  brandStrength: 0.375
+  lightness: 0.8125
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
